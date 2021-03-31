@@ -4,7 +4,7 @@ Below I listed the various languages and tools I use or have used.
 
 ### Connect with me:
 
-[<img align="left" alt="luccom.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="luccom.nl" width="22px" src="https://byte24.nl/_next/static/images/logo1-a2a4ca110946359f6e371984edb0f273.png" />][website]
 
 <br />
 
@@ -28,11 +28,4 @@ Below I listed the various languages and tools I use or have used.
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Luc Swart's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucswart&show_icons=false&hide_border=true" />
-
-</details>
-
-[website]: https://luccom.nl
+[website]: https://byte24.nl
