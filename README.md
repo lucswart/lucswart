@@ -1,10 +1,10 @@
 ### Hi there, I am Luc 👋
-I am a second year student of the study Business IT & Management. I do programming in my free time and try to explore different languages to create cool things.
+I do programming in my free time and try to explore different languages to create cool things.
 Below I listed the various languages and tools I use or have used.
 
 ### Connect with me:
 
-[<img align="left" alt="luccom.nl" width="22px" src="https://byte24.nl/_next/static/images/logo1-a2a4ca110946359f6e371984edb0f273.png" />][website]
+[<img align="left" alt="byte24.nl" width="22px" src="https://byte24.nl/_next/static/images/logo1-a2a4ca110946359f6e371984edb0f273.png" />][website]
 
 <br />
 
